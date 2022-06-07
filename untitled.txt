@@ -1,0 +1,4 @@
+{ "ip":"GS_SMP00.aternos.me",
+  "port":24991",
+  "name";"Chutiya"
+}
